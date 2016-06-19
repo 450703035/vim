@@ -324,6 +324,13 @@ func SetTitle()
     "新建文件后，自动定位到文件末尾
 endfunc 
 
+"------------------
+"Doxygen
+"------------------
+let g:doxygenToolkit_authorName="wangle"
+let g:doxygenToolkit_briefTag_funcName="yes"
+
+
 
 "------------------
 " Useful Functions

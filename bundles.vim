@@ -28,7 +28,6 @@ Bundle 'tomtom/tlib_vim'
 Bundle 'edsono/vim-matchit'
 Bundle 'Lokaltog/vim-easymotion'
 
-Bundle 'wesleyche/SrcExpl'
 "--------------
 " Fast editing
 "--------------
@@ -85,6 +84,12 @@ Bundle 'tpope/vim-markdown'
 
 "------- Go ----------
 Bundle 'fatih/vim-go'
+
+"------- SrcExpl ----------
+Bundle 'wesleyche/SrcExpl'
+
+"------- ×¢ÊÍ ------------
+Bundle 'DoxygenToolkit.vim'
 
 "------- FPs ------
 Bundle 'kien/rainbow_parentheses.vim'
